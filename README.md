@@ -6,7 +6,11 @@ HOST: http://localhost:3000
 
 API for challenge BossaBox
 
-# Group API
+# Instructions
+
+npm run dev - For run API
+
+npm run testApi - For run tests
 
 ## About [/]
 
