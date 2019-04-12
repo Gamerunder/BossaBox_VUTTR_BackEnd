@@ -1,0 +1,6 @@
+const supertest = require('supertest')
+const chai = require('chai')
+const app = require('../index')
+
+global.request = supertest(app)
+global.expect = chai.expect
