@@ -8,9 +8,11 @@ API for challenge BossaBox
 
 # Instructions
 
-npm run dev - For run API
+### knex migrate:latest  (after install dependencies)
 
-npm run testApi - For run tests
+### npm run dev - For run API
+
+### npm run testApi - For run tests
 
 ## About [/]
 
